@@ -13,9 +13,6 @@ public class TaskList {
 		
 		ArrayList<Task> taskList = new ArrayList<>();
 		
-		Task t1 = new Task("Test Name", "Test Description", "Test DueDate", true);
-		taskList.add(t1);
-
 		do {
 		
 		System.out.println();
